@@ -7,14 +7,13 @@
 
 import csv
 class MaoyanspidersPipeline:
-    def __init__(self):
-        columns = ['item_type','name','time']
-        file_name = 'maoyan2.csv'
-       
-        file = open(file_name, 'w', newline='', encoding='utf-8')
-        self.writer = csv.DictWriter(file, columns)
-        self.writer.writeheader()
+    
 
     def process_item(self, item, spider):
-        self.writer.writerow(item)
+        name=item['name']
+        itemType=item['item_type']
+        time=item['time']
+        output = f'|{name}|\t|{itemType}|\t|{time}|\n\n'
+        with open('maoyan3.csv',mode='a',newline='',encoding='utf-8') as writer:
+             writer.write(output)     
         return item

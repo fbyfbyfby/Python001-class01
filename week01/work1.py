@@ -16,7 +16,6 @@ for tags in bs_info.find_all('div', attrs={'class': 'movie-hover-info'})[:10]:
     mylist.append(atag[1].text.split()[1])
     mylist.append(atag[3].text.split()[1])     
 import pandas as pd
-
 movie1 = pd.DataFrame(data = mylist)
 
 # windows需要使用gbk字符集
