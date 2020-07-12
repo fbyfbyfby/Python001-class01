@@ -2,30 +2,30 @@
 
 ![python-19](img/python-19.png)
 
-![python-20](/python-20.jpg)
+![python-20](img/python-20.png)
 
-![python-21](/python-21.jpg)
+![python-21](img/python-21.png)
 
-![python-22](/python-22.jpg)
+![python-22](img/python-22.png)
 
-![python-23](/python-23.jpg)
+![python-23](img/python-23.png)
 
-![python-24](/python-24.jpg)
+![python-24](img/python-24.png)
 
-![python-25](/python-25.jpg)
+![python-25](img/python-25.png)
 
-![python-26](/python-26.jpg)
+![python-26](img/python-26.png)
 
-![python-27](/python-27.jpg)
+![python-27](img/python-27.png)
 
-![python-28](/python-28.jpg)
+![python-28](img/python-28.png)
 
-![python-29](/python-29.jpg)
+![python-29](img/python-29.png)
 
-![python-30](/python-30.jpg)
+![python-30](img/python-30.png)
 
-![python-31](/python-31.jpg)
+![python-31](img/python-31.png)
 
-![python-32](/python-32.jpg)
+![python-32](img/python-32.png)
 
-![python-33](/python-33.jpg)
+![python-33](img/python-33.png)
