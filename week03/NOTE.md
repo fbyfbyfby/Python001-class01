@@ -1,6 +1,6 @@
-![python-18](/python-18.jpg)
+![python-18](img/python-18.png)
 
-![python-19](/python-19.jpg)
+![python-19](img/python-19.png)
 
 ![python-20](/python-20.jpg)
 
